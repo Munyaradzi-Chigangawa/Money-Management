@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386546920023",
+    "firebase_url": "https://wallet-15f04.firebaseio.com",
+    "project_id": "wallet-15f04",
+    "storage_bucket": "wallet-15f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386546920023:android:78fd47b14d55c9e80dd112",
+        "android_client_info": {
+          "package_name": "com.example.money_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386546920023-8j6pk3gcakqoeg56v3ipt33d46psvfjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4AstYNY7GQIctBYcDfkhFcq1VcpbIBYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386546920023-8j6pk3gcakqoeg56v3ipt33d46psvfjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
