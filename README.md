@@ -1,6 +1,6 @@
-# money_management_app
+# Money Management App
 
-A new Flutter project.
+a money managing app designed to provide an overview of your expenses and income.
 
 ## Getting Started
 
